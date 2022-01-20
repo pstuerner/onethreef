@@ -1,0 +1,8 @@
+name = "your_name"
+email = "your_email"
+storage_path = "your_storage_path"
+postgres_user = "your_postgres_user"
+postgres_pwd = "your_postgres_pwd"
+postgres_ip = "your_postgres_ip"
+postgres_port = "your_postgres_port"
+postgres_db = "your_postgres_db"
