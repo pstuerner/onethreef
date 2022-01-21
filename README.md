@@ -32,7 +32,9 @@
 ## Example usage
 
 Download all feeds from the first quarter of 2016: <code>$ onethreef download 2016 1</code>
+
 Unpack all feeds from the first quarter of 2016: <code>$ onethreef unpack 2016 1</code>
+
 Write all filings the first quarter of 2016 to the database: <code>$ onethreef to-database 2016 1</code>
 
 ## Work in progress
